@@ -12,7 +12,7 @@ body{
 }
 
 .head{
-    background: linear-gradient(rgba(41, 50, 56, 0.9), rgba(41, 50, 56, 0.9)), url(images/hero_1.jpg);
+    background: linear-gradient(rgba(41, 50, 56, 0.9), rgba(41, 50, 56, 0.9)), url(Images/hero_1.jpg);
     background-size: cover;
     height: 100vh;
 }
